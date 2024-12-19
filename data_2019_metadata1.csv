@@ -1,0 +1,22 @@
+site_name,lat,lon,measurement,bc_type,source,altitude[m],time_zone,start_UTCtime,end_UTCtime,station_id
+Neumayer,-70.65,-8.25,MAAP,eBC,https://doi.pangaea.de/10.1594/PANGAEA.938991,0.0,Etc/UTC,2019-01-01 00:00:00,2019-12-31 00:00:00,0
+Southern_Great_Plains,36.60732,-97.48764,PSAP,eBC,https://doi.pangaea.de/10.1594/PANGAEA.964046,317.0,America/Chicago,2019-10-01 00:00:00,2019-11-15 00:00:00,1
+Nanning,22.63,108.22,AE31,eBC,https://doi.org/10.1016/j.scitotenv.2023.166747,110.0,Asia/Shanghai,2019-01-22 00:00:00,2019-12-30 00:00:00,2
+Xinxiang,35.3167,113.85,SP2,rBC,https://doi.org/10.1029/2023JD038505,75.0,Asia/Shanghai,2019-01-01 00:00:00,2019-01-15 00:00:00,3
+Nanjing,32.1167,118.95,SP2,rBC,https://doi.org/10.1029/2023JD038505,18.0,Asia/Shanghai,2019-01-01 00:00:00,2019-01-16 00:00:00,4
+Beijing,40.14,117.12,SP2,rBC,https://doi.org/10.1029/2020JD033096,32.0,Asia/Shanghai,2019-01-01 00:00:00,2019-12-30 00:00:00,5
+Manchester,53.44,-2.21,AE33,eBC,https://catalogue.ceda.ac.uk/uuid/03fd47b671b9482293ba122d3b7044da/,47.0,Europe/London,2019-07-22 00:00:00,2019-12-31 00:00:00,6
+Himadri,78.9167,11.9333,AE33,eBC,https://data.ncpor.res.in/newhtml/3,0.0,Arctic/Longyearbyen,2019-01-01 00:00:00,2019-12-31 00:00:00,7
+Anshan,41.1,122.6,AE33,eBC,unpublished,5.0,Asia/Shanghai,2019-01-22 00:00:00,2019-12-31 00:00:00,8
+Chengdu,29.2,111.7,AE33,eBC,unpublished,230.0,Asia/Shanghai,2019-01-22 00:00:00,2019-12-31 00:00:00,9
+Dongtan,31.5,122.0,AE33,eBC,unpublished,0.0,Asia/Shanghai,2019-01-22 00:00:00,2019-12-31 00:00:00,10
+Gaolanshan,36.0,103.8,AE33,eBC,unpublished,1966.0,Asia/Shanghai,2019-01-22 00:00:00,2019-12-31 00:00:00,11
+Linan,30.3,119.7,AE33,eBC,unpublished,120.0,Asia/Shanghai,2019-01-22 00:00:00,2019-12-31 00:00:00,12
+Lushan,29.6,116.0,AE33,eBC,unpublished,818.0,Asia/Shanghai,2019-01-22 00:00:00,2019-12-31 00:00:00,13
+Shangdianzi,40.7,117.1,AE33,eBC,unpublished,597.0,Asia/Shanghai,2019-01-23 00:00:00,2019-12-31 00:00:00,14
+WLG,36.3,101.0,AE33,eBC,unpublished,3598.0,Asia/Shanghai,2019-01-22 00:00:00,2019-12-31 00:00:00,15
+XGLL,28.0,99.7,AE33,eBC,unpublished,3541.0,Asia/Shanghai,2019-01-22 00:00:00,2019-12-31 00:00:00,16
+Zhengzhou,34.8,113.7,AE33,eBC,unpublished,87.0,Asia/Shanghai,2019-04-21 00:00:00,2019-12-31 00:00:00,17
+Zhurihe,42.4,112.9,AE33,eBC,unpublished,1146.0,Asia/Shanghai,2019-07-22 00:00:00,2019-12-31 00:00:00,18
+Zeppelin,78.9,11.88,MAAP,eBC,unpublished,0.0,Arctic/Longyearbyen,2019-01-02 00:00:00,2019-11-15 00:00:00,19
+ATTO,-2.1459,-59.0056,SP2,rBC,https://doi.org/10.1038/s43247-023-00795-5,132.0,America/Manaus,2019-01-01,2019-12-31,20
